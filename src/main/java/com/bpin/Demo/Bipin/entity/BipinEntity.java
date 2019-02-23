@@ -12,6 +12,7 @@ public class BipinEntity {
 	@Column(name="hsfd")
 	private String name;
 	private String addess;
+	String dsfs;
 	
 	public String getName() {
 		return name;
